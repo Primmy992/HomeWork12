@@ -2,7 +2,7 @@ import random
 import json
 import datetime
 
-from gameFunctions import play_game
+from functions import play_game
 
 secret = random.randint(1, 30)
 attempts = 0
